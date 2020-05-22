@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro 2",
+      "price": 99.99,
+      "ativo": true,
+      "data_atualizacao": null
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": 99.99,
+      "ativo": true,
+      "data_atualizacao": null
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": 99.99,
+      "data_atualizacao": null,
+      "ativo": false,
+      "id": 4
+    },
+    {
+      "name": "Produto teste",
+      "price": 99.99,
+      "data_atualizacao": null,
+      "ativo": true,
+      "id": 5
+    },
+    {
+      "name": "Celular",
+      "data_atualizacao": null,
+      "price": 99.99,
+      "ativo": true,
+      "id": 6
+    },
+    {
+      "name": "vassoura",
+      "data_atualizacao": null,
+      "price": 99.99,
+      "ativo": false,
+      "id": 7
+    },
+    {
+      "name": "barco",
+      "ativo": false,
+      "data_atualizacao": null,
+      "price": 99.99,
+      "id": 8
+    }
+  ]
+}
